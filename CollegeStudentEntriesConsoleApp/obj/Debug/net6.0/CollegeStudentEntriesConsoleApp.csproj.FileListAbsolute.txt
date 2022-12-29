@@ -1,0 +1,15 @@
+C:\Users\30697\source\repos\CollegeStudentEntriesConsoleApp\CollegeStudentEntriesConsoleApp\obj\Debug\net6.0\CollegeStudentEntriesConsoleApp.csproj.AssemblyReference.cache
+C:\Users\30697\source\repos\CollegeStudentEntriesConsoleApp\CollegeStudentEntriesConsoleApp\obj\Debug\net6.0\CollegeStudentEntriesConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30697\source\repos\CollegeStudentEntriesConsoleApp\CollegeStudentEntriesConsoleApp\obj\Debug\net6.0\CollegeStudentEntriesConsoleApp.AssemblyInfoInputs.cache
+C:\Users\30697\source\repos\CollegeStudentEntriesConsoleApp\CollegeStudentEntriesConsoleApp\obj\Debug\net6.0\CollegeStudentEntriesConsoleApp.AssemblyInfo.cs
+C:\Users\30697\source\repos\CollegeStudentEntriesConsoleApp\CollegeStudentEntriesConsoleApp\obj\Debug\net6.0\CollegeStudentEntriesConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\30697\source\repos\CollegeStudentEntriesConsoleApp\CollegeStudentEntriesConsoleApp\bin\Debug\net6.0\CollegeStudentEntriesConsoleApp.exe
+C:\Users\30697\source\repos\CollegeStudentEntriesConsoleApp\CollegeStudentEntriesConsoleApp\bin\Debug\net6.0\CollegeStudentEntriesConsoleApp.deps.json
+C:\Users\30697\source\repos\CollegeStudentEntriesConsoleApp\CollegeStudentEntriesConsoleApp\bin\Debug\net6.0\CollegeStudentEntriesConsoleApp.runtimeconfig.json
+C:\Users\30697\source\repos\CollegeStudentEntriesConsoleApp\CollegeStudentEntriesConsoleApp\bin\Debug\net6.0\CollegeStudentEntriesConsoleApp.dll
+C:\Users\30697\source\repos\CollegeStudentEntriesConsoleApp\CollegeStudentEntriesConsoleApp\bin\Debug\net6.0\CollegeStudentEntriesConsoleApp.pdb
+C:\Users\30697\source\repos\CollegeStudentEntriesConsoleApp\CollegeStudentEntriesConsoleApp\obj\Debug\net6.0\CollegeStudentEntriesConsoleApp.dll
+C:\Users\30697\source\repos\CollegeStudentEntriesConsoleApp\CollegeStudentEntriesConsoleApp\obj\Debug\net6.0\refint\CollegeStudentEntriesConsoleApp.dll
+C:\Users\30697\source\repos\CollegeStudentEntriesConsoleApp\CollegeStudentEntriesConsoleApp\obj\Debug\net6.0\CollegeStudentEntriesConsoleApp.pdb
+C:\Users\30697\source\repos\CollegeStudentEntriesConsoleApp\CollegeStudentEntriesConsoleApp\obj\Debug\net6.0\CollegeStudentEntriesConsoleApp.genruntimeconfig.cache
+C:\Users\30697\source\repos\CollegeStudentEntriesConsoleApp\CollegeStudentEntriesConsoleApp\obj\Debug\net6.0\ref\CollegeStudentEntriesConsoleApp.dll
